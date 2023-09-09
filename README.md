@@ -12,3 +12,4 @@ Part 2: Update the Database
 
 Part 3: Exploratory Analysis
 
+Used VSCode instead of Jupyter Notebook for this homework, I enjoy it more. Did a lot of work with mongo and cleaning data frames. Used module 12 activities for refference and google and chatgpt to manage some of the larger cells.
